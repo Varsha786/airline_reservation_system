@@ -2,7 +2,7 @@
 
 
 ## Idea
-A online airline reservation system with inerface to select source and destination cities alongwith a graphical interface to select suitable available seats .
+A online airline reservation system with inerface to select source and destination cities along with a graphical interface to select suitable available seats .
 It also sends booking details with seat No and class (economy,buisness) to user through email and sms.
 It is modular website by creating  common pages (e.g.  headers,footers,javascript and css links)
 and these common pages are included whereever required with PHP include statments.
@@ -13,7 +13,7 @@ and these common pages are included whereever required with PHP include statment
 1. Frontend: css-> for bootstrap files</br>
              dist-> jquery validation files</br>
    connections: connections.php (all css and javascript files link)</br>
-   Fight seating Plan (made with buttons using loops)::</br>
+   Fight seating Plan (made with buttons using loops):: to display arrangement of seats . </br>
             ~indigo.php</br>
             ~spicejet.php</br>
             ~boing.php</br>
