@@ -28,7 +28,7 @@ later this session email is used to send confirmation mails.
 
 4. files used for mailing are **class.phpmailer.php** and **class.smtp.php**.</br>
 
-5. Admin account is set from where acoount  can be activated or blocked and same will be notified to user through email.</br>
+5. Admin account is set from where different flight routes can be added between different new cities.</br>
    Admin files: **admin_login.php**</br>
    Other files:</br>
     ~**changepassword.php**: utility function to change pasword.</br>
