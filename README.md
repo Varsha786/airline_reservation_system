@@ -1,4 +1,4 @@
-# airline_reservation_system
+# Airline_reservation_system
 
 
 ## Idea
@@ -29,8 +29,8 @@ later this session email is used to send confirmation mails.
 4. files used for mailing are **class.phpmailer.php** and **class.smtp.php**.</br>
 
 5. Admin account is set from where acoount  can be activated or blocked and same will be notified to user through email.</br>
-   Admin files: admin_login.php</br>
+   Admin files: **admin_login.php**</br>
    Other files:</br>
-    ~changepassword.php:utility function to change pasword.</br>
-    ~updateflight.php:utility function to update flight related details.</br>
+    ~**changepassword.php**: utility function to change pasword.</br>
+    ~**updateflight.php**: utility function to update flight related details.</br>
            
